@@ -37,6 +37,7 @@ function draw() {
     rect(object.x, object.y, object.width, object.height);
     noStroke();
     fill(255);
+    textFont('Poppins');
     textSize(24);
     text(object.label, object.x + 10, object.y + 24);
   }

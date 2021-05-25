@@ -93,6 +93,7 @@ main {
 }
 
 .btn {
+  text-decoration: none;
   margin-top: 5.5em;
   padding: 0.9em 4em;
   border: none;
